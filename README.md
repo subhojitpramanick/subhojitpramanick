@@ -1,5 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
+# Hello World!, I'm Tobi, a Indiam Flutter Developer 👋🏼:
+🛜 currently working on my own [vchat](https://github.com/subhojitpramanick/vchat)<br>👨🏼‍🎓 studying Information Technology At Haldia Institute of Technology<br>👨🏼‍💻 working as a Android developer since 2023 </i>
+
+
+# 💻 Tech Stack:
 ###
 
 <img align="right" height="150" src="https://i.postimg.cc/CMNr9MpR/9fa0nj.gif"  />
