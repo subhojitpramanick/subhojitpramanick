@@ -19,7 +19,7 @@ I use standard HTML tags, like
 # 💻 Tech Stack:
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/CMNr9MpR/9fa0nj.gif"  />
+<img align="right" height="150" src="https://i.postimg.cc/rsYwC91c/9falah.gif"  />
 
 ###
 
