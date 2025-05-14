@@ -1,7 +1,7 @@
 <img src="gitBqnner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Subhojit, a Indian Flutter Developer 👋🏼:
-🛜 currently working on a project:  [vchat](https://github.com/subhojitpramanick/clickFix.git)<br>👨🏼‍🎓 studying Information Technology At Haldia Institute of Technology<br>👨🏼‍💻 working as a Android developer since 2023 </i>
+🛜 currently working on a project:  [ClickFix](https://github.com/subhojitpramanick/clickFix.git)<br>👨🏼‍🎓 studying Information Technology At Haldia Institute of Technology<br>👨🏼‍💻 working as a Android developer since 2023 </i>
 ###
 
 ###
