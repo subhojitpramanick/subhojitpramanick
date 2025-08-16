@@ -1,4 +1,4 @@
-<img src="gitBqnner.png" alt="GitHub Banner" width="100%" />
+<img src="gitBanner.png" alt="GitHub Banner" width="100%" />
 # Hello World!, I'm Subhojit, a Indian Developer 👋🏼:
 🛜 currently working on a project: [ClickFix](https://github.com/subhojitpramanick/clickFix.git)<br>👨🏼‍🎓 studying Information Technology At Haldia Institute of Technology<br>👨🏼‍💻 honing my skills since 2023 </i>
 ###
